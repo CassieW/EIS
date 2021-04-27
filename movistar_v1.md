@@ -1,3 +1,11 @@
+---
+title: movistar
+id: movistar_v1
+layout: none
+nav-menu: false
+show_tile: false
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
