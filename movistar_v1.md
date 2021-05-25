@@ -6,7 +6,6 @@ nav-menu: false
 show_tile: false
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
